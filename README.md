@@ -1,8 +1,43 @@
-# React + Vite
+# Cartão Virtual - Lourdes Lima Fotografia
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um cartão de visitas virtual interativo desenvolvido para a fotógrafa Lourdes Lima, apresentando seu portfólio e informações de contato de forma elegante e responsiva.
 
-Currently, two official plugins are available:
+![Preview do Cartão Virtual](URL_DA_IMAGEM_PREVIEW)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
+
+- **Header Personalizado**
+  - Foto profissional com borda gradiente
+  - Efeito scanline suave
+  - Informações principais
+
+- **Slider de Portfólio**
+  - Estúdio
+  - Casamentos no Civil
+  - Aniversários
+  - Eventos Corporativos
+  - Navegação intuitiva com botões e indicadores
+
+- **Contato Direto**
+  - Link para WhatsApp
+  - Perfil do Instagram
+  - Telefone
+  - E-mail
+  - Localização
+
+## 🛠️ Tecnologias Utilizadas
+
+- React.js
+- Tailwind CSS
+- Lucide Icons
+
+## 💻 Pré-requisitos
+
+- Node.js (versão 14 ou superior)
+- npm ou yarn
+
+## 🔧 Instalação
+
+1. Clone o repositório
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
